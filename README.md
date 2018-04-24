@@ -12,7 +12,7 @@ Look at `Issues` and `Projects` for detailed examples.
 ## Sprint rules
 1. A sprint starts on monday morning, 8 o'clock, and lasts until the next thursday (10 days laster), 12 o'clock
 2. The first assignment of every sprint is to decide which issues are to be completed during the sprint.
-3. Planned issues which are not completed during the sprint are moved back to all issues on GitHub and labeled with `Sprint backlog` and `Not completed during sprint`.
+3. Planned issues which are not completed during the sprint are moved back to all issues on GitHub and labeled `Not completed during sprint`.
 4. The first day after a completed sprint, the project manager and customer has a meeting where the work done during the sprint is presentated.
 5. We use one GitHub project board for each sprint.
 6. When estimating issues for a sprint, remember to include time for review and some overhead.
