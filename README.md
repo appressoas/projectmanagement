@@ -12,7 +12,7 @@ Look at `Issues` and `Projects` for detailed examples.
 ## Sprint rules
 1. A sprint starts on monday morning, 8 o'clock, and lasts until the next thursday (10 days laster), 12 o'clock
 2. The first assignment of every sprint is to decide which issues are to be completed during the sprint.
-3. Planned issues which are not completed during the sprint are moved back to all issues on GitHub and labeled with "Sprint backlog" and "Not completed during sprint".
+3. Planned issues which are not completed during the sprint are moved back to all issues on GitHub and labeled with `Sprint backlog` and `Not completed during sprint`.
 4. The first day after a completed sprint, the project manager and customer has a meeting where the work done during the sprint is presentated.
 5. We use one GitHub project board for each sprint.
 6. When estimating issues for a sprint, remember to include time for review and some overhead.
@@ -29,7 +29,9 @@ Normally a project manager, developers and a customer are involved in a project.
 ### Project manager responsibilites
 1. The project manager is responsible for looking thru new issues GitHub, label them and move or close these new issues.
 2. Present the work done during the last sprint for the customer. This presentation is friday morning after finishing a sprint. 
+4. Create new GitHub project board and move open issues with lable `Sprint backlog` to the column `Sprint backlog`
 3. Decide toghether with the customer new issues and which existing issues to remove in order to keep the budget and delivery time as written in the contract.
+5. Close the GitHub project board when a sprint is done.
 
 ### Project manager and developer responsibilities
 1. Work thru the issues in the column “Sprint backlog” on the project board, and together decide which issues to be completed in the next sprint.
