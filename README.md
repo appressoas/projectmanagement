@@ -50,11 +50,11 @@ Normally a project manager, developers and a customer are involved in a project.
 The following labels are used by the project manager
 1. `Customer backlog`
 2. `Project backlog`
-3. `Sprint backlog`
+3. `Sprint`
 4. `Not relevant`
 
 ### Label explenation
 1. `Customer backlog` is used when an issue is relevant for the customer, but not to be included in the current project.
 2. `Project backlog` is used when an issue is relevant for the project.
-3. `Sprint backlog` is used when an issue is to be prioritiezed within the current project.
+3. `Sprint` is used when an issue is included in a sprint.
 4. `Not relevant` is used when an issue is to be closed without any work.
